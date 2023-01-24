@@ -1,0 +1,26 @@
+{
+  "name": "trpc-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzammilosman/trpc-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muzammilosman/trpc-sample/issues"
+  },
+  "homepage": "https://github.com/muzammilosman/trpc-sample#readme",
+  "dependencies": {
+    "@tanstack/react-query": "^4.22.4",
+    "@trpc/client": "^10.9.0",
+    "@trpc/next": "^10.9.0",
+    "@trpc/react-query": "^10.9.0",
+    "@trpc/server": "^10.9.0"
+  }
+}
